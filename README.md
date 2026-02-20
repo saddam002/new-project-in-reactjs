@@ -1,7 +1,8 @@
 # React + Vite
 
 <h1>Card Project</h1>
-![Uploading Screenshot 2026-02-20 201437.png…]()
+
+<img width="1644" height="571" alt="Screenshot 2026-02-20 201437" src="https://github.com/user-attachments/assets/52ddbeec-6a15-4cf4-bfad-966b2afcc17c" />
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
